@@ -1,1 +1,1 @@
-Gitflow Lab 5 - Develop Update
+Gitflow Lab 5 - Develop and Feature Conflict Resolved
